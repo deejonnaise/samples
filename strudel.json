@@ -1,0 +1,8 @@
+{
+  "_base": "https://deejonnaise.github.io/samples/",
+  "vox":[
+    "vox/vox_ah1.wav",
+    "vox/vox_eh1.wav",
+    "vox/vox_yahands.wav"
+  ]
+}
