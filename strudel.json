@@ -27,10 +27,5 @@
     "vox/vox_what.wav",
     "vox/vox_what2.wav",
     "vox/vox_yougotta.wav"
-  ],
-    "speech": [
-    "speech/computer.wav",
-    "speech/cybernetic.wav",
-    "speech/bebop.wav"
   ]
 }
