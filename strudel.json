@@ -31,6 +31,9 @@
    "speech": [
     "speech/computer.wav",
     "speech/cybernetic.wav",
-    "speech/bebop.wav"
+    "speech/bebop.wav",
+    "speech/computer2.wav",
+    "speech/code.wav",
+    "speech/jam.wav"
    ]
 }
