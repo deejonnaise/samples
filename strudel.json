@@ -41,5 +41,14 @@
   },
     "bass_thicsine": {
     "c2": "bass/c/thicsine.wav"
+  },
+    "bass_pluck1": {
+    "c2": "bass/c/pluck1.wav"
+  },
+    "bass_subpluck": {
+    "c2": "bass/c/subpluck.wav"
+  },
+   "bass_pitchdrop1": {
+    "c2": "bass/c/pitchdrop1.wav"
   }
 }
