@@ -28,7 +28,7 @@
     "vox/vox_what2.wav",
     "vox/vox_yougotta.wav"
   ],
-   "speech": [
+  "speech": [
     "speech/computer.wav",
     "speech/cybernetic.wav",
     "speech/bebop.wav",
@@ -36,19 +36,19 @@
     "speech/code.wav",
     "speech/jam.wav"
    ],
-    "bass_womp1": {
+  "bass_womp1": {
     "c2": "bass/c/womp1.wav"
   },
-    "bass_thicsine": {
+  "bass_thicsine": {
     "c2": "bass/c/thicsine.wav"
   },
-    "bass_pluck1": {
+  "bass_pluck1": {
     "c2": "bass/c/pluck1.wav"
   },
-    "bass_subpluck": {
+  "bass_subpluck": {
     "c2": "bass/c/subpluck.wav"
   },
-   "bass_pitchdrop1": {
+  "bass_pitchdrop1": {
     "c2": "bass/c/pitchdrop1.wav"
   }
 }
