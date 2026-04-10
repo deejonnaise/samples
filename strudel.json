@@ -36,7 +36,7 @@
     "speech/code.wav",
     "speech/jam.wav"
    ]
-  "bass": {
+  "bass_womp": {
     "c2":  "bass/C/womp.wav"
   }
 }
