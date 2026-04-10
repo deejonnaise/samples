@@ -38,5 +38,8 @@
    ],
     "bass_womp": {
     "c2": "bass/c/womp.wav"
+  },
+    "bass_thicsine": {
+    "c2": "bass/c/thicsine.wav"
   }
 }
