@@ -35,5 +35,8 @@
     "speech/computer2.wav",
     "speech/code.wav",
     "speech/jam.wav"
-   ]
+   ],
+    "bass_womp": {
+    "c2": "bass/c/womp.wav"
+  }
 }
