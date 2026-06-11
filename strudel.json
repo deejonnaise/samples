@@ -28,6 +28,31 @@
     "vox/vox_what2.wav",
     "vox/vox_yougotta.wav"
   ],
+  "vox_ah1":      ["vox/vox_ah1.wav"],
+  "vox_eh1":      ["vox/vox_eh1.wav"],
+  "vox_yahands":  ["vox/vox_yahands.wav"],
+  "vox_yip":      ["vox/vox_yip.wav"],
+  "vox_yougotta": ["vox/vox_yougotta.wav"],
+  "vox_oh1":      ["vox/vox_oh1.wav"],
+  "vox_ah2":      ["vox/vox_ah2.wav"],
+  "vox_ah3":      ["vox/vox_ah3.wav"],
+  "vox_ass":      ["vox/vox_ass.wav"],
+  "vox_be":       ["vox/vox_be.wav"],
+  "vox_beat":     ["vox/vox_beat.wav"],
+  "vox_boh":      ["vox/vox_boh.wav"],
+  "vox_dosah":    ["vox/vox_dosah.wav"],
+  "vox_eep":      ["vox/vox_eep.wav"],
+  "vox_eh2":      ["vox/vox_eh2.wav"],
+  "vox_eh3":      ["vox/vox_eh3.wav"],
+  "vox_eh4":      ["vox/vox_eh4.wav"],
+  "vox_holdin":   ["vox/vox_holdin.wav"],
+  "vox_may":      ["vox/vox_may.wav"],
+  "vox_on":       ["vox/vox_on.wav"],
+  "vox_ow":       ["vox/vox_ow.wav"],
+  "vox_re":       ["vox/vox_re.wav"],
+  "vox_wah1":     ["vox/vox_wah1.wav"],
+  "vox_what":     ["vox/vox_what.wav"],
+  "vox_what2":    ["vox/vox_what2.wav"],
   "speech": [
     "speech/computer.wav",
     "speech/cybernetic.wav",
@@ -35,23 +60,11 @@
     "speech/computer2.wav",
     "speech/code.wav",
     "speech/jam.wav"
-   ],
-  "bass_womp1": {
-    "c2": "bass/c/womp1.wav"
-  },
-  "bass_thicsine": {
-    "c2": "bass/c/thicsine.wav"
-  },
-  "bass_pluck1": {
-    "c2": "bass/c/pluck1.wav"
-  },
-  "bass_subpluck1": {
-    "c2": "bass/c/subpluck1.wav"
-  },
-  "bass_pitchdrop1": {
-    "c2": "bass/c/pitchdrop1.wav"
-  },
-  "bass_electro1": {
-  "c2": "bass/c/electro1.wav"
-  }
+  ],
+  "bass_womp1":     { "c2": "bass/c/womp1.wav" },
+  "bass_thicsine":  { "c2": "bass/c/thicsine.wav" },
+  "bass_pluck1":    { "c2": "bass/c/pluck1.wav" },
+  "bass_subpluck1": { "c2": "bass/c/subpluck1.wav" },
+  "bass_pitchdrop1":{ "c2": "bass/c/pitchdrop1.wav" },
+  "bass_electro1":  { "c2": "bass/c/electro1.wav" }
 }
