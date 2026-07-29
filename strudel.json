@@ -69,8 +69,8 @@
   "bass_electro1":  { "c2": "bass/c/electro1.wav" },
   
   "breaks": [
-   "breaks/break1.wav",
-   "breaks/break2.wav",    
-   "breaks/break3.wav"
+   "breaks/break_1.wav",
+   "breaks/break_2.wav",    
+   "breaks/break_3.wav"
   ]
 }
