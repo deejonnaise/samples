@@ -68,7 +68,7 @@
   "bass_pitchdrop1":{ "c2": "bass/c/pitchdrop1.wav" },
   "bass_electro1":  { "c2": "bass/c/electro1.wav" },
   
-  "vox": [
+  "breaks": [
    "breaks/break1.wav",
    "breaks/break2.wav",    
    "breaks/break3.wav"
