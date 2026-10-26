@@ -26,7 +26,9 @@
     "vox/vox_wah1.wav",
     "vox/vox_what.wav",
     "vox/vox_what2.wav",
-    "vox/vox_yougotta.wav"
+    "vox/vox_all-day-long.wav",
+    "vox/vox_hippodrome.wav",
+    "vox/vox_whores-in-this-house.wav"
   ],
   "vox_ah1":      ["vox/vox_ah1.wav"],
   "vox_eh1":      ["vox/vox_eh1.wav"],
@@ -53,6 +55,9 @@
   "vox_wah1":     ["vox/vox_wah1.wav"],
   "vox_what":     ["vox/vox_what.wav"],
   "vox_what2":    ["vox/vox_what2.wav"],
+  "vox_allday":   ["vox/vox_all-day-long.wav"],
+  "vox_hippodrome":  ["vox/vox_hippodrome.wav"],
+  "vox_whores":    ["vox/vox_whores-in-this-house.wav"],
   "speech": [
     "speech/computer.wav",
     "speech/cybernetic.wav",
